@@ -1,3 +1,5 @@
+//Callback es la funcion que l;lama a otra funcion
+
 function hi(name, myCallback) {
     setTimeout(function () {
         console.log('Hi, ' + name);
