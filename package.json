@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VarScript/course-node-fundamentals/issues"
   },
-  "homepage": "https://github.com/VarScript/course-node-fundamentals#readme"
+  "homepage": "https://github.com/VarScript/course-node-fundamentals#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
