@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/VarScript/course-node-fundamentals#readme",
   "dependencies": {
-    "is-odd": "^3.0.1"
+    "is-odd": "^3.0.1",
+    "puppeteer": "^16.1.1"
   }
 }
